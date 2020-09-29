@@ -6,3 +6,4 @@ Other input
 deleted marius 
 new line
 Conflict thomas
+More conflicts

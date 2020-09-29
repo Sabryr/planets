@@ -2,9 +2,5 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 From Github
 Other input
-<<<<<<< HEAD
-thomas
-=======
-marius|
->>>>>>> 66eca0e206b2c8cb56e0b5f769e35d1c711ca479
-t 2
+deleted marius 
+new line

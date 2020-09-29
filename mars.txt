@@ -6,4 +6,4 @@ ziu1986
 Other input
 deleted marius 
 new line
-thomas
+Conflict thomas

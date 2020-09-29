@@ -1,7 +1,14 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 From Github
+<<<<<<< HEAD
 Yiyi Whitchelo
 Other input
 marius
+Ok lets do it - Adnan
+ziu1986
+Other input
+deleted marius 
+new line
+Conflict thomas
 

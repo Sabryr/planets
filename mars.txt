@@ -4,3 +4,5 @@ From Github
 Other input
 marius|
 test change #2
+new line
+thomas
